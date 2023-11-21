@@ -39,7 +39,7 @@ The following important libraries were used for this project:
   ## DATA VISUALISATION
   
      1. To Create a pair plot `sns.pairplot(df)` and `plt.show()` was used.
-     2. To create a Correlation heatmap `df.corr()`,`plt.title('Correlation Heatmap')`and `plt.show()`          were used required preferences.
+     2. To create a Correlation heatmap `df.corr()`,`plt.title('Correlation Heatmap')`and `plt.show()` were used with required preferences.
 
   ## Model Training and Evaluation
 
