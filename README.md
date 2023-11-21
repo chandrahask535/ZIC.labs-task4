@@ -12,9 +12,8 @@
 Sales prediction involving forecasting the amount of a product that customers will purchase, taking into account with various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
 
 ## Datasets
-
-The following datasets were used for this project:
-advertising.xls: The advertising dataset contains the information about the relationship between 'TV','Radio', 'Newspaper' and 'sales'.
+ The following datasets were used for this project:
+  advertising.xls: The advertising dataset contains the information about the relationship between 'TV','Radio', 'Newspaper' and 'sales'.
 
 ## Libraries Used
 
