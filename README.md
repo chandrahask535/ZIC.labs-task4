@@ -51,8 +51,10 @@ The following important libraries were used for this project:
   2. Model Evaluation:
      
         Predictions are made on the test set (`X_test`), and key regression metrics are calculated:
+     
             Mean Squared Error (MSE)
             Mean Absolute Error (MAE)
             R-squared (R2)
+     
     -The actual vs. predicted values are visualized with a scatter plot.
     -Predictions are saved to a CSV file named `sales_prediction.csv`.
